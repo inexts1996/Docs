@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
